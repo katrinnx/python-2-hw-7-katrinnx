@@ -1,0 +1,4 @@
+scrapy == 2.11.0
+ipython==7.34.0
+ipython-genutils==0.2.0
+ipython-sql==0.5.0
